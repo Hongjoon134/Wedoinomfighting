@@ -10,3 +10,4 @@
 
 
 폴더나 파일을 업로드하고 싶으면 '+'버튼> upload flie > 원하는 폴더/파일을 선택 or 드래그 엔 드롭
+![Untitled](https://github.com/user-attachments/assets/cb64e975-db0d-4924-b731-73462c649729)
